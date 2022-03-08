@@ -8,5 +8,3 @@
 - 💻 I'm web developer
 - 👀 I’m interested in JavaScript
 - 📫 How to reach me: [Email] 935613502@qq.com
--
-
